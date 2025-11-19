@@ -1,0 +1,11 @@
+{
+  "name": "playwright-cucumber-e2e",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js --config cucumber.js"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.56.1"
+  }
+}
